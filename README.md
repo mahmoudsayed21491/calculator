@@ -1,2 +1,2 @@
 # calculator
-### this project a simple calculator
+### this project creates a simple calculator
